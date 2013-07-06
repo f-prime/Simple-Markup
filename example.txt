@@ -1,0 +1,32 @@
+! Bold
+/ Italic
+_ Underline
+$ Code
+code
+code
+code
+$
+
+= h1
+== h2
+=== h3
+==== h4
+===== h5
+# http://google.com:Google
+
+" Ordered list
+* 1
+* 2 
+* 3
+"
+
+' Unordered list
+* 1 
+* 2
+* 3
+'
+
+__ HR
+
+
+
